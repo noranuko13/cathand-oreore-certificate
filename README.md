@@ -12,6 +12,8 @@ docker-compose run --rm oreore /scripts/oreore.sh
 - That's all.  
   これだけ。
 
+![Top](docs/images/top.png)
+
 
 ## Requirement - 必要なもの
 - [Docker](https://www.docker.com/)
