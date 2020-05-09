@@ -1,8 +1,8 @@
 #!/bin/bash
 
-source /scripts/bin/file.sh
-source /scripts/bin/array.sh
-source /scripts/bin/message.sh
+source /scripts/lib/file.sh
+source /scripts/lib/array.sh
+source /scripts/lib/message.sh
 
 source /scripts/conf/oreore.conf
 
