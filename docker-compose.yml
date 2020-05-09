@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  oreore:
+    build: .
+    container_name: oreore
+    volumes:
+      - ./keys:/keys
+      - ./scripts:/scripts
+    working_dir: /keys
