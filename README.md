@@ -52,6 +52,7 @@ docker-compose run --rm oreore /scripts/oreore.sh
 
 ### Operation check environment - 動作確認環境
 - Microsoft Windows [Version 10.0.18363.778]
+- PowerShell 7.0.0
 - Docker version 19.03.8, build afacb8b
 
 
