@@ -48,12 +48,12 @@ docker-compose run --rm oreore /scripts/oreore.sh
 ## Note - 備考
 
 ### Final Operation Confirmation Datetime - 最終更新日時
-- 2020/05/09 22:00
+- 2020/10/13 12:00
 
 ### Operation check environment - 動作確認環境
-- Microsoft Windows [Version 10.0.18363.778]
-- PowerShell 7.0.0
-- Docker version 19.03.8, build afacb8b
+- Microsoft Windows [Version 10.0.18363.1082]
+- PowerShell 7.0.3
+- Docker version 19.03.13, build 4484c46d9d
 
 
 ## Licence - ライセンス
