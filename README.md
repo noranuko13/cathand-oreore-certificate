@@ -1,3 +1,8 @@
+> [!WARNING]
+> このリポジトリはアーカイブされています。今後の更新はありません。  
+> This repository is archived. No further updates will be made.
+
+
 # cathand-oreore-certificate
 - 【猫の手シリーズ No.001】オレオレ証明書を作るにゃ!  
   【Cat Hand Series No.001】Generate Pawsome Ore Ore Certificate!
